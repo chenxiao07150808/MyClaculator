@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyClaculator</string>
+    <string name="MyClaculator">个人标准身高计算器</string>
+    <string name="weight">个人体重:</string>
+    <string name="inputweight">请输入你的体重:</string>
+    <string name="sex">个人性别 :</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="button">提 交</string>
+</resources>
